@@ -3,5 +3,9 @@ game 'gta5'
 lua54 'yes'
 
 client_scripts {
-	'client.lua'
+	'cl_windowstint.lua'
+}
+
+server_scripts {
+	's_windowtint.lua'
 }
