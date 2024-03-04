@@ -1,1 +1,1 @@
-# js-windowtintasdasdasdasdsa
+# js-windowtint
