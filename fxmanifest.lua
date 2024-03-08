@@ -9,3 +9,7 @@ client_scripts {
 server_scripts {
 	's_windowtint.lua'
 }
+
+shared_scripts {
+    '@ox_lib/init.lua',
+}
